@@ -1,0 +1,418 @@
+[11-Aug-2022 18:55:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_home() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php:3
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php(19): require_once('C:\\Users\\wandr\\...')
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php(17): require('C:\\Users\\wandr\\...')
+#3 {main}
+  thrown in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php on line 3
+[11-Aug-2022 18:55:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_home() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php:3
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php(19): require_once('C:\\Users\\wandr\\...')
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php(17): require('C:\\Users\\wandr\\...')
+#3 {main}
+  thrown in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php on line 3
+[11-Aug-2022 18:55:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_home() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php:3
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php(19): require_once('C:\\Users\\wandr\\...')
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php(17): require('C:\\Users\\wandr\\...')
+#3 {main}
+  thrown in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php on line 3
+[11-Aug-2022 18:56:06 UTC] PHP Warning:  Use of undefined constant get_page - assumed 'get_page' (this will throw an Error in a future version of PHP) in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php on line 3
+[11-Aug-2022 18:56:06 UTC] PHP Stack trace:
+[11-Aug-2022 18:56:06 UTC] PHP   1. {main}() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:0
+[11-Aug-2022 18:56:06 UTC] PHP   2. require() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:17
+[11-Aug-2022 18:56:06 UTC] PHP   3. require_once() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php:19
+[11-Aug-2022 18:56:06 UTC] PHP   4. include() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php:106
+[11-Aug-2022 18:56:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function home() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php:3
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php(19): require_once('C:\\Users\\wandr\\...')
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php(17): require('C:\\Users\\wandr\\...')
+#3 {main}
+  thrown in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php on line 3
+[11-Aug-2022 18:56:06 UTC] PHP Warning:  Use of undefined constant get_page - assumed 'get_page' (this will throw an Error in a future version of PHP) in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php on line 3
+[11-Aug-2022 18:56:06 UTC] PHP Stack trace:
+[11-Aug-2022 18:56:06 UTC] PHP   1. {main}() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:0
+[11-Aug-2022 18:56:06 UTC] PHP   2. require() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:17
+[11-Aug-2022 18:56:06 UTC] PHP   3. require_once() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php:19
+[11-Aug-2022 18:56:06 UTC] PHP   4. include() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php:106
+[11-Aug-2022 18:56:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function home() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php:3
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php(19): require_once('C:\\Users\\wandr\\...')
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php(17): require('C:\\Users\\wandr\\...')
+#3 {main}
+  thrown in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php on line 3
+[11-Aug-2022 18:56:06 UTC] PHP Warning:  Use of undefined constant get_page - assumed 'get_page' (this will throw an Error in a future version of PHP) in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php on line 3
+[11-Aug-2022 18:56:06 UTC] PHP Stack trace:
+[11-Aug-2022 18:56:06 UTC] PHP   1. {main}() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:0
+[11-Aug-2022 18:56:06 UTC] PHP   2. require() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:17
+[11-Aug-2022 18:56:06 UTC] PHP   3. require_once() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php:19
+[11-Aug-2022 18:56:06 UTC] PHP   4. include() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php:106
+[11-Aug-2022 18:56:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function home() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php:3
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php(19): require_once('C:\\Users\\wandr\\...')
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php(17): require('C:\\Users\\wandr\\...')
+#3 {main}
+  thrown in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php on line 3
+[18-Aug-2022 17:28:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_url() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\header.php:27
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template.php(716): load_template('C:\\Users\\wandr\\...', true, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\page-home.php(3): get_header()
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Proje in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\header.php on line 27
+[18-Aug-2022 17:28:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_url() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\header.php:27
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template.php(716): load_template('C:\\Users\\wandr\\...', true, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php(1): get_header()
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\ in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\header.php on line 27
+[18-Aug-2022 17:31:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php on line 1
+[18-Aug-2022 17:31:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php on line 1
+[18-Aug-2022 17:31:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php on line 1
+[18-Aug-2022 17:31:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php:1
+Stack trace:
+#0 {main}
+  thrown in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\index.php on line 1
+[18-Aug-2022 17:46:20 UTC] PHP Warning:  Use of undefined constant TEMPLATE - assumed 'TEMPLATE' (this will throw an Error in a future version of PHP) in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\page-contato.php on line 10
+[18-Aug-2022 17:46:20 UTC] PHP Stack trace:
+[18-Aug-2022 17:46:20 UTC] PHP   1. {main}() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:0
+[18-Aug-2022 17:46:20 UTC] PHP   2. require() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:17
+[18-Aug-2022 17:46:20 UTC] PHP   3. require_once() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php:19
+[18-Aug-2022 17:46:20 UTC] PHP   4. include() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php:106
+[18-Aug-2022 17:46:20 UTC] PHP Warning:  include(TEMPLATE/inc/introducao.php): failed to open stream: No such file or directory in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\page-contato.php on line 10
+[18-Aug-2022 17:46:20 UTC] PHP Stack trace:
+[18-Aug-2022 17:46:20 UTC] PHP   1. {main}() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:0
+[18-Aug-2022 17:46:20 UTC] PHP   2. require() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:17
+[18-Aug-2022 17:46:20 UTC] PHP   3. require_once() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php:19
+[18-Aug-2022 17:46:20 UTC] PHP   4. include() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php:106
+[18-Aug-2022 17:46:20 UTC] PHP Warning:  include(): Failed opening 'TEMPLATE/inc/introducao.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\page-contato.php on line 10
+[18-Aug-2022 17:46:20 UTC] PHP Stack trace:
+[18-Aug-2022 17:46:20 UTC] PHP   1. {main}() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:0
+[18-Aug-2022 17:46:20 UTC] PHP   2. require() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:17
+[18-Aug-2022 17:46:20 UTC] PHP   3. require_once() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php:19
+[18-Aug-2022 17:46:20 UTC] PHP   4. include() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php:106
+[19-Aug-2022 18:39:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function incluir_botao(), 0 passed in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\inc\qualidade.php on line 26 and exactly 3 expected in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\inc\qualidade.php:20
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\inc\qualidade.php(26): incluir_botao()
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\page-home.php(59): include('C:\\Users\\wandr\\...')
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\wandr\\...')
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php(19): require_once('C:\\Users\\wandr\\...')
+#4 C:\Users in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\inc\qualidade.php on line 20
+[19-Aug-2022 18:44:32 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\inc\qualidade.php on line 25
+[19-Aug-2022 18:44:32 UTC] PHP Stack trace:
+[19-Aug-2022 18:44:32 UTC] PHP   1. {main}() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:0
+[19-Aug-2022 18:44:32 UTC] PHP   2. require() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:17
+[19-Aug-2022 18:44:32 UTC] PHP   3. require_once() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php:19
+[19-Aug-2022 18:44:32 UTC] PHP   4. include() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php:106
+[19-Aug-2022 18:44:32 UTC] PHP   5. include() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\page-home.php:59
+[19-Aug-2022 18:44:32 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\inc\qualidade.php on line 25
+[19-Aug-2022 18:44:32 UTC] PHP Stack trace:
+[19-Aug-2022 18:44:32 UTC] PHP   1. {main}() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:0
+[19-Aug-2022 18:44:32 UTC] PHP   2. require() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:17
+[19-Aug-2022 18:44:32 UTC] PHP   3. require_once() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php:19
+[19-Aug-2022 18:44:32 UTC] PHP   4. include() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php:106
+[19-Aug-2022 18:44:32 UTC] PHP   5. include() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\page-home.php:59
+[19-Aug-2022 18:44:32 UTC] PHP   6. log() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\inc\qualidade.php:25
+[19-Aug-2022 18:45:06 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\inc\qualidade.php on line 25
+[19-Aug-2022 18:45:06 UTC] PHP Stack trace:
+[19-Aug-2022 18:45:06 UTC] PHP   1. {main}() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:0
+[19-Aug-2022 18:45:06 UTC] PHP   2. require() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:17
+[19-Aug-2022 18:45:06 UTC] PHP   3. require_once() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php:19
+[19-Aug-2022 18:45:06 UTC] PHP   4. include() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php:106
+[19-Aug-2022 18:45:06 UTC] PHP   5. include() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\page-home.php:59
+[19-Aug-2022 18:45:06 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\inc\qualidade.php on line 25
+[19-Aug-2022 18:45:06 UTC] PHP Stack trace:
+[19-Aug-2022 18:45:06 UTC] PHP   1. {main}() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:0
+[19-Aug-2022 18:45:06 UTC] PHP   2. require() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:17
+[19-Aug-2022 18:45:06 UTC] PHP   3. require_once() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php:19
+[19-Aug-2022 18:45:06 UTC] PHP   4. include() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php:106
+[19-Aug-2022 18:45:06 UTC] PHP   5. include() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\page-home.php:59
+[19-Aug-2022 18:45:06 UTC] PHP   6. log() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\inc\qualidade.php:25
+[22-Aug-2022 12:27:02 UTC] PHP Notice:  Undefined index: argv in phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php on line 972
+[22-Aug-2022 12:27:02 UTC] PHP Stack trace:
+[22-Aug-2022 12:27:02 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[22-Aug-2022 12:27:02 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[22-Aug-2022 12:27:02 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[22-Aug-2022 12:27:02 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[22-Aug-2022 12:27:02 UTC] PHP   5. WP_CLI\Bootstrap\ConfigureRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:78
+[22-Aug-2022 12:27:02 UTC] PHP   6. WP_CLI\Runner->init_config() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/ConfigureRunner.php:23
+[22-Aug-2022 12:27:02 UTC] PHP Warning:  array_slice() expects parameter 1 to be array, null given in phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php on line 972
+[22-Aug-2022 12:27:02 UTC] PHP Stack trace:
+[22-Aug-2022 12:27:02 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[22-Aug-2022 12:27:02 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[22-Aug-2022 12:27:02 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[22-Aug-2022 12:27:02 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[22-Aug-2022 12:27:02 UTC] PHP   5. WP_CLI\Bootstrap\ConfigureRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:78
+[22-Aug-2022 12:27:02 UTC] PHP   6. WP_CLI\Runner->init_config() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/ConfigureRunner.php:23
+[22-Aug-2022 12:27:02 UTC] PHP   7. array_slice() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:972
+[22-Aug-2022 12:27:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Configurator.php on line 150
+[22-Aug-2022 12:27:02 UTC] PHP Stack trace:
+[22-Aug-2022 12:27:02 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[22-Aug-2022 12:27:02 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[22-Aug-2022 12:27:02 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[22-Aug-2022 12:27:02 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[22-Aug-2022 12:27:02 UTC] PHP   5. WP_CLI\Bootstrap\ConfigureRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:78
+[22-Aug-2022 12:27:02 UTC] PHP   6. WP_CLI\Runner->init_config() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/ConfigureRunner.php:23
+[22-Aug-2022 12:27:02 UTC] PHP   7. WP_CLI\Configurator->parse_args() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:994
+[22-Aug-2022 12:27:02 UTC] PHP   8. WP_CLI\Configurator::extract_assoc() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Configurator.php:133
+[22-Aug-2022 12:27:02 UTC] PHP Notice:  Undefined index: argv in phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php on line 972
+[22-Aug-2022 12:27:02 UTC] PHP Stack trace:
+[22-Aug-2022 12:27:02 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[22-Aug-2022 12:27:02 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[22-Aug-2022 12:27:02 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[22-Aug-2022 12:27:02 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[22-Aug-2022 12:27:02 UTC] PHP   5. WP_CLI\Bootstrap\ConfigureRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:78
+[22-Aug-2022 12:27:02 UTC] PHP   6. WP_CLI\Runner->init_config() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/ConfigureRunner.php:23
+[22-Aug-2022 12:27:02 UTC] PHP Warning:  array_slice() expects parameter 1 to be array, null given in phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php on line 972
+[22-Aug-2022 12:27:02 UTC] PHP Stack trace:
+[22-Aug-2022 12:27:02 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[22-Aug-2022 12:27:02 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[22-Aug-2022 12:27:02 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[22-Aug-2022 12:27:02 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[22-Aug-2022 12:27:02 UTC] PHP   5. WP_CLI\Bootstrap\ConfigureRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:78
+[22-Aug-2022 12:27:02 UTC] PHP   6. WP_CLI\Runner->init_config() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/ConfigureRunner.php:23
+[22-Aug-2022 12:27:02 UTC] PHP   7. array_slice() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:972
+[22-Aug-2022 12:27:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Configurator.php on line 150
+[22-Aug-2022 12:27:02 UTC] PHP Stack trace:
+[22-Aug-2022 12:27:02 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[22-Aug-2022 12:27:02 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[22-Aug-2022 12:27:02 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[22-Aug-2022 12:27:02 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[22-Aug-2022 12:27:02 UTC] PHP   5. WP_CLI\Bootstrap\ConfigureRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:78
+[22-Aug-2022 12:27:02 UTC] PHP   6. WP_CLI\Runner->init_config() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/ConfigureRunner.php:23
+[22-Aug-2022 12:27:02 UTC] PHP   7. WP_CLI\Configurator->parse_args() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:994
+[22-Aug-2022 12:27:02 UTC] PHP   8. WP_CLI\Configurator::extract_assoc() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Configurator.php:133
+[22-Aug-2022 12:27:03 UTC] PHP Notice:  Undefined index: argv in phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php on line 1092
+[22-Aug-2022 12:27:03 UTC] PHP Stack trace:
+[22-Aug-2022 12:27:03 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[22-Aug-2022 12:27:03 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[22-Aug-2022 12:27:03 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[22-Aug-2022 12:27:03 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[22-Aug-2022 12:27:03 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:78
+[22-Aug-2022 12:27:03 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:28
+[22-Aug-2022 12:27:03 UTC] PHP Warning:  implode(): Invalid arguments passed in phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php on line 1092
+[22-Aug-2022 12:27:03 UTC] PHP Stack trace:
+[22-Aug-2022 12:27:03 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[22-Aug-2022 12:27:03 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[22-Aug-2022 12:27:03 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[22-Aug-2022 12:27:03 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[22-Aug-2022 12:27:03 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:78
+[22-Aug-2022 12:27:03 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:28
+[22-Aug-2022 12:27:03 UTC] PHP   7. implode() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1092
+[22-Aug-2022 12:27:03 UTC] PHP Notice:  Undefined index: argv in phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php on line 1092
+[22-Aug-2022 12:27:03 UTC] PHP Stack trace:
+[22-Aug-2022 12:27:03 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[22-Aug-2022 12:27:03 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[22-Aug-2022 12:27:03 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[22-Aug-2022 12:27:03 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[22-Aug-2022 12:27:03 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:78
+[22-Aug-2022 12:27:03 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:28
+[22-Aug-2022 12:27:03 UTC] PHP Warning:  implode(): Invalid arguments passed in phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php on line 1092
+[22-Aug-2022 12:27:03 UTC] PHP Stack trace:
+[22-Aug-2022 12:27:03 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[22-Aug-2022 12:27:03 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[22-Aug-2022 12:27:03 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[22-Aug-2022 12:27:03 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[22-Aug-2022 12:27:03 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:78
+[22-Aug-2022 12:27:03 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:28
+[22-Aug-2022 12:27:03 UTC] PHP   7. implode() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1092
+[22-Aug-2022 13:31:12 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\inc\qualidade.php on line 19
+[22-Aug-2022 13:31:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ispage() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\inc\qualidade.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\page-home.php(59): include()
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\wandr\\...')
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php(19): require_once('C:\\Users\\wandr\\...')
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php(17): require('C:\\Users\\wandr\\...')
+#4 {main}
+  thrown in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\inc\qualidade.php on line 19
+[22-Aug-2022 15:52:52 UTC] PHP Warning:  Use of undefined constant portfolio - assumed 'portfolio' (this will throw an Error in a future version of PHP) in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\inc\clientes_portfolio.php on line 16
+[22-Aug-2022 15:52:52 UTC] PHP Stack trace:
+[22-Aug-2022 15:52:52 UTC] PHP   1. {main}() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:0
+[22-Aug-2022 15:52:52 UTC] PHP   2. require() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:17
+[22-Aug-2022 15:52:52 UTC] PHP   3. require_once() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php:19
+[22-Aug-2022 15:52:52 UTC] PHP   4. include() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php:106
+[22-Aug-2022 15:52:52 UTC] PHP   5. include() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\page-home.php:58
+[22-Aug-2022 15:52:56 UTC] PHP Warning:  Use of undefined constant portfolio - assumed 'portfolio' (this will throw an Error in a future version of PHP) in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\inc\clientes_portfolio.php on line 16
+[22-Aug-2022 15:52:56 UTC] PHP Stack trace:
+[22-Aug-2022 15:52:56 UTC] PHP   1. {main}() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:0
+[22-Aug-2022 15:52:56 UTC] PHP   2. require() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\index.php:17
+[22-Aug-2022 15:52:56 UTC] PHP   3. require_once() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-blog-header.php:19
+[22-Aug-2022 15:52:56 UTC] PHP   4. include() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\template-loader.php:106
+[22-Aug-2022 15:52:56 UTC] PHP   5. include() C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\page-portfolio.php:40
+[22-Aug-2022 18:20:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
+[22-Aug-2022 18:22:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
+[22-Aug-2022 18:24:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
+[22-Aug-2022 18:26:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
+[22-Aug-2022 18:28:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
+[22-Aug-2022 18:32:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
+[22-Aug-2022 18:32:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
+[23-Aug-2022 11:59:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
+[23-Aug-2022 11:59:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
+[23-Aug-2022 11:59:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
+[23-Aug-2022 11:59:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
+[23-Aug-2022 11:59:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
+[23-Aug-2022 11:59:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
+[23-Aug-2022 11:59:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
+[23-Aug-2022 11:59:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
+[23-Aug-2022 11:59:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
+[23-Aug-2022 11:59:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
+[23-Aug-2022 11:59:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
+[23-Aug-2022 12:13:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
+[23-Aug-2022 12:13:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_images_sizes() in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php:19
+Stack trace:
+#0 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(307): my_custom_sizes('')
+#1 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#4 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-config.php(91): require_once('C:\\Users\\wandr\\...')
+#5 C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-load.php(50): in C:\Users\wandr\Documents\Usuarios\Wandrey\Projetos\LocalSites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 19
