@@ -8,18 +8,17 @@ get_header();
 		<?php include(TEMPLATEPATH . "/inc/introducao.php"); ?>
 
 		<section class="container animar-interno">
-
-			
 			<ul class="rslides">
-				<?php if(have_rows('quote_portfolio')): while(have_rows('item_portfolio')) : 
-					the_row(); ?>
+
+				<?php if(have_rows('quote_portfolio')): while(have_rows('quote_portfolio')) : the_row(); ?>
 				<li>
 					<blockquote class="quote_clientes">
-						<?php the_field('quote') ?>
-						<cite><?php the_sub_field('nome_quote') ?></cite>
+						<?php the_sub_field('quote'); ?>
+						<cite><?php the_sub_field('nome_quote'); ?></cite>
 					</blockquote>
 				</li>
 				<?php endwhile; else : endif; ?>
+
 			</ul>
 		</section>
 

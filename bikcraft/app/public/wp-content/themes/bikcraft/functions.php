@@ -21,4 +21,5 @@ function my_custom_sizes() {
 }
 add_action('after_setup_theme', 'my_custom_sizes');
 
+
 ?>
