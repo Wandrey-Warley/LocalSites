@@ -154,7 +154,7 @@ img {
 	color: #FFF;
 }
 
-.header_menu ul li a.menu_ativo {
+.header_menu ul li.current_page_item a {
 	color: #FFF;
 }
 
@@ -243,6 +243,10 @@ img {
 
 .produtos_lista li img {
 	margin: 0 auto;
+}
+
+.produtos_lista a {
+	color: #000;
 }
 
 .produtos_lista li h3{
